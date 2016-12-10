@@ -1,6 +1,7 @@
 
 echo "Starting combining script"
 # for file in "S@"
+# more comments...:
 # for file in human_chr*.txt
 for file in "$@"
 do
